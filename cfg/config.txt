@@ -1,0 +1,1 @@
+{"theme-selected":"DarkBlue","Title":"CS-ScikitGUI","favicon":"cfg/cs.ico"}
