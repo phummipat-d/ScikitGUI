@@ -13,6 +13,6 @@ installation steps:<br>
   pip install pyinstaller<br>
   pip install pywin32<br>
 
-building exe steps:
-1.activate ScikitGUI
-2.pyinstaller --onefile ScikitGUI.py
+building exe steps:<br>
+1.activate ScikitGUI<br>
+2.pyinstaller --onefile ScikitGUI.py<br>
