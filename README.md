@@ -12,3 +12,7 @@ installation steps:<br>
   pip install kaleido<br>
   pip install pyinstaller<br>
   pip install pywin32<br>
+
+building exe steps:
+1.activate ScikitGUI
+2.pyinstaller --onefile ScikitGUI.py
