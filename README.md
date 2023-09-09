@@ -1,7 +1,6 @@
 # ScikitGUI
-installation steps:<br>
+<b>installation steps:</b><br>
 1.create enveronement for ScikitGUI using python 3.6.13 for example : conda create -n ScikitGUI python=3.6.13 anaconda<br>
-
 2.install package belowing:<br>
   conda install scikit-learn==0.24.1<br>
   conda install matplotlib==3.3.4<br>
@@ -13,6 +12,7 @@ installation steps:<br>
   pip install pyinstaller<br>
   pip install pywin32<br>
 
-building exe steps:<br>
+<b>building exe steps:</b><br>
 1.activate ScikitGUI<br>
 2.pyinstaller --onefile ScikitGUI.py<br>
+3.ScikitGUI.exe will show in folder <b>dist</b>
